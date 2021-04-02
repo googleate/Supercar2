@@ -14,6 +14,8 @@ For the AUDI R8 2 doors of the year 2018 with gasoline engine. To be more specif
 
 The Audi R8 is a rear mid-engined, all-wheel drive sports car in open (Spyder) version. It hit the market in 2006 and continues to surprise with its aggressive aesthetic and refined demeanor. Its design was based on the Audi Le Mans prototype.
 
+The Audi R8 is a mid-rear engine supercar manufactured by Audi. Its second generation was launched on the market in summer 2015 and updated at the end of 2018. It is the only car in its segment that retains a naturally aspirated V10 engine (with 570 hp or 620 hp) together with the Lamborghini Huracán with which it shares the bulk of its elements, in addition to the V10 engine. The price of the Audi R8 starts from 200,000 euros.
+
 > Year: 2018
 >
 > Power: 540 CV
@@ -28,12 +30,12 @@ The Audi R8 is a rear mid-engined, all-wheel drive sports car in open (Spyder) v
 
 ![](/images/audi-r8-11-1.jpg)
 
-# Price: From €998 / Day
+## Price: From €998 / Day
 
- Deposit €: 8,000
+Deposit €: 8,000
 
- Min Age: 25
+Min Age: 25
 
- Min Hire Period Days: 2
+Min Hire Period Days: 2
 
 ![](/images/boton.png)
