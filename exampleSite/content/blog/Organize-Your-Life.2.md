@@ -3,7 +3,7 @@ title: Ferrari California T
 date: 2019-05-14T14:46:10.000+06:00
 description: Rent a Ferrari California T
 type: featured
-image: "/images/post-3-1.jpg"
+image: "/images/post-3-2.jpg"
 categories:
 - Supercar
 tags:
