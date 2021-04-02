@@ -3,7 +3,7 @@ title: Bentley GTC S
 date: 2019-05-14T14:46:10.000+06:00
 description: Rent a Bentley GTC
 type: featured
-image: "/images/post-3.jpg"
+image: "/images/post-3-3.jpg"
 categories:
 - Supercar
 tags: []
