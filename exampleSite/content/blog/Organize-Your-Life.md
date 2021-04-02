@@ -27,4 +27,4 @@ This S version has another differentiating aspect: its new 4-liter V8 petrol eng
 
 ![](/images/bentley-gtc.jpg)
 
-![](/images/boton.png)
+[![](/images/boton.png)](/contact)
