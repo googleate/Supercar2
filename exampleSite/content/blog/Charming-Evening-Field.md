@@ -2,13 +2,10 @@
 title: Audi R8 Spider
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-type: post
+type: feature
 image: "/images/audi-r8-11-1.jpg"
-categories:
-- Food
-tags:
-- Photos
-- Food
+categories: []
+tags: []
 
 ---
 For the AUDI R8 2 doors of the year 2018 with gasoline engine. To be more specific, it is the variant of 540 CV of maximum power that mounts Automatic transmission, which results in a very pleasant car to drive.
