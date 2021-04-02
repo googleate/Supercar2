@@ -1,56 +1,30 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-1.jpg"
-categories: 
-  - "Valuable Idea"
-tags:
-  - "Photos"
-  - "Finance"
+title: Bentley GTC S
+date: 2019-05-14T14:46:10.000+06:00
+description: Rent a Bentley GTC
+type: featured
+image: "/images/post-3.jpg"
+categories:
+- Supercar
+tags: []
+
 ---
+A car of his style, which lives on the fringes of fashion and is committed to an obvious aesthetic classicism. You can identify that it is a Bentley very easily, by its front with the typical and huge grille in an upright position, or by the rear with its optics with double ellipse graphics and typical forms of classic British sports cars.
 
+But the car you see in the photos does incorporate some new details. This is the new S version of the Bentley Continental GTC. The S is derived from “Speed”, in honor of the legendary 1925 Bentley 3-liter Speed ​​and the Speed ​​Six, both winners of the 24 Hours of Le Mans and which made the British brand one of the most respected in the world. This sporty heritage is passed on to the Continental GTC S in the form of exclusive details such as a front splitter, a grille in black instead of chrome, side skirts, new rear exhaust outlets and 21-inch alloy wheels.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+This S version has another differentiating aspect: its new 4-liter V8 petrol engine gives 21 hp more than that of the Continental GTC, and reaches up to 528 hp. It is an Audi origin engine, with high-pressure direct injection, double turbo and cylinder disconnection system, which can deactivate 4 of the 8 cylinders in a specific way, for example, when driving in the city, to reduce fuel consumption. This V8 engine offers similar benefits to the V12, but spending 40% less. Talking about consumption in a car like this may seem out of place, but in any case, it is about polluting as little as possible, it is a matter of ethics and respect for regulations, and the British brand is not excluded from this.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+> Price: 950€/D
+>
+> Deposit €: 7,000
+>
+> Min Age: 25
+>
+> Min Hire Period Days: 2
 
+![](/images/bentley.jpg)
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+![](/images/bentley-gtc.jpg)
 
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+![](/images/boton.png)
