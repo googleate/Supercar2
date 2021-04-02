@@ -3,7 +3,7 @@ title: Audi R8 Spyder
 date: 2019-05-14T14:46:10.000+06:00
 description: Audi R8 Spyder
 type: featured
-image: "/images/audi-r8-11-1.jpg"
+image: "/images/audi-r8-spyder-blanco.jpg"
 categories: []
 tags: []
 
