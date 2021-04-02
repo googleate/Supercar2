@@ -30,6 +30,8 @@ The Audi R8 is a mid-rear engine supercar manufactured by Audi. Its second gener
 
 ![](/images/audi-r8-11-1.jpg)
 
+![](/images/audi-r8-12.jpg)
+
 ## Price: From €998 / Day
 
 Deposit €: 8,000
