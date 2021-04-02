@@ -31,10 +31,10 @@ The Audi R8 is a rear mid-engined, all-wheel drive sports car in open (Spyder) v
 
 # Price: From €998 / Day
 
-Deposit €: 8,000
+ Deposit €: 8,000
 
-Min Age: 25
+ Min Age: 25
 
-Min Hire Period Days: 2
+ Min Hire Period Days: 2
 
 ![](/images/boton.png)
