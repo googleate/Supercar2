@@ -1,23 +1,20 @@
 baseurl = "https://supercarmarbella.com"
 googleAnalytics = ""
 languageCode = "en-us"
-paginate = "12"
+paginate = "31"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "SuperCar Marbella"
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
+name = "Brands"
 url = ""
 weight = 1
 [[menu.main]]
-name = "Homepage 1"
-parent = "Homepage"
-url = "homepage/home-1"
-[[menu.main]]
-name = "Homepage 2"
-parent = "Homepage"
-url = "homepage/home-2"
+hasChildren = ""
+name = "Audi"
+url = "https://supercar2.netlify.app/tags/audi/"
+weight = "1"
 [[menu.main]]
 name = "About"
 url = "about"
