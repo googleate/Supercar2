@@ -6,14 +6,14 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "SuperCar Marbella"
 [[menu.main]]
-hasChildren = true
-name = "Brands"
-url = ""
-weight = 1
+hasChildren = false
+name = "Cabrio"
+url = "https://supercar2.netlify.app/categories/cabrio/"
+weight = "1"
 [[menu.main]]
 hasChildren = ""
-name = "Audi"
-url = "https://supercar2.netlify.app/tags/audi/"
+name = "Supercars"
+url = "https://supercar2.netlify.app/categories/supercar/"
 weight = "1"
 [[menu.main]]
 name = "About"
