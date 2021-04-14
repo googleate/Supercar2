@@ -24,4 +24,5 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/blog/audi-q7-s-line-7-seats.md
 - exampleSite/content/blog/mercedes-g63.md
