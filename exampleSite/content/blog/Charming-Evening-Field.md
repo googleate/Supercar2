@@ -5,9 +5,9 @@ description: Audi R8 Spyder
 type: featured
 image: "/images/post-3-4.jpg"
 categories:
-- supercar
+- Supercar
 tags:
-- audi
+- Audi
 
 ---
 For the AUDI R8 2 doors of the year 2018 with gasoline engine. To be more specific, it is the variant of 540 CV of maximum power that mounts Automatic transmission, which results in a very pleasant car to drive.
