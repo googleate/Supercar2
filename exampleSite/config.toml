@@ -16,6 +16,11 @@ name = "Supercars"
 url = "https://supercar2.netlify.app/categories/supercar/"
 weight = "1"
 [[menu.main]]
+hasChildren = ""
+name = "SUV"
+url = "https://supercar2.netlify.app/categories/suv/"
+weight = "1"
+[[menu.main]]
 name = "About"
 url = "about"
 weight = 2
