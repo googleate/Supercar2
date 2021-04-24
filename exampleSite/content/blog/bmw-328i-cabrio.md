@@ -8,9 +8,9 @@ title = "BMW 328i Cabrio"
 type = "post"
 
 +++
-El BMW 328i Cabrio (1998-1999) tiene un motor gasolina de 2793cc con 6 cilindros situados en línea que alcanza una potencia máxima de 193CV a 5500rpm y par máximo de 280Nm a 3500rpm. Se trata por tanto de una mecánica con una potencia máxima de 193CV, con nutrición .
+The BMW 328i Cabrio (1998-1999) has a 2793cc gasoline engine with 6 cylinders located in line that reaches a maximum power of 193CV at 5500rpm and maximum torque of 280Nm at 3500rpm. It is therefore a mechanic with a maximum power of 193CV, with nutrition.
 
-Esta mecánica de 2793cc de cilindrada obtiene unos consumos de 13.5 litros en circulación urbana, 6.8 en carretera y consumo de 9.3 litros a los 100km de media. Con ello los niveles de emisiones se sitúan en gramos de CO2 por kilómetro. El turismo, en consecuencia, está exento del impuesto de matriculación.
+This 2793cc displacement mechanic obtains consumption of 13.5 liters in urban circulation, 6.8 on the highway and consumption of 9.3 liters per 100km on average. With this, the emission levels are placed in grams of CO2 per kilometer. Tourism, consequently, is exempt from registration tax.
 
 > Price: 180€/D
 >
