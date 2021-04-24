@@ -4,11 +4,13 @@ date = ""
 description = "Rent Ferrari Portofino"
 image = "/images/ferrari-portofino-21-1.jpg"
 tags = ["Ferrari"]
-title = "Ferrari Portofino"
+title = "Ferrari Portofino (1500€)"
 type = "post"
 
 +++
-The Ferrari Portofino (2018) has a 3855cc gasoline engine with 8 cylinders located in V that reaches a maximum power of 600CV at 7500rpm and maximum torque of 760Nm at 3000-5250rpm. Consequently, it is a mechanic with a specific power of 600CV, with direct injection nutrition.
+The Ferrari Portofino (2018) has a 3855cc gasoline engine with 8 cylinders located in V.
+
+Reaches a maximum power of 600CV at 7500rpm and maximum torque of 760Nm at 3000-5250rpm. Consequently, it is a mechanic with a specific power of 600CV, with direct injection nutrition.
 
 Label C
 
