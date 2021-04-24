@@ -4,11 +4,13 @@ date = ""
 description = "Rent Mercedes GLE Coupe"
 image = "/images/mercedes-gle-coupe.jpeg"
 tags = ["Mercedes"]
-title = "Mercedes GLE Coupe"
+title = "Mercedes GLE Coupe(350€)"
 type = "post"
 
 +++
-The Mercedes-Benz AMG GLE 43 4MATIC Coupé (2018-2019) has a 2996cc gasoline engine with 6 cylinders located in V that reaches a maximum power of 390CV at 5500-6000rpm and maximum torque of 520Nm at 2500-5000rpm. It is therefore a mechanic with a specific power of 390CV, with direct injection nutrition.
+The Mercedes-Benz AMG GLE 43 4MATIC Coupé (2018-2019) 
+
+Has a 2996cc gasoline engine with 6 cylinders located in V that reaches a maximum power of 390CV at 5500-6000rpm and maximum torque of 520Nm at 2500-5000rpm. It is therefore a mechanic with a specific power of 390CV, with direct injection nutrition.
 
 Label C
 
