@@ -8,11 +8,11 @@ title = "Mercedes G63"
 type = "post"
 
 +++
-El Mercedes-Benz AMG G 63 (2015-2018) tiene un motor gasolina de 5461cc con 8 cilindros situados en v que alcanza una potencia máxima de 571CV a 5500rpm y par máximo de 760Nm a 1750-5000rpm. Se trata por tanto de una mecánica con una potencia concreta de 571CV, con nutrición intercooler.
+The Mercedes-Benz AMG G 63 (2015-2018) has a 5461cc gasoline engine with 8 cylinders located in v that reaches a maximum power of 571CV at 5500rpm and maximum torque of 760Nm at 1750-5000rpm. It is therefore a mechanical with a specific power of 571CV, with intercooler nutrition.
 
-Etiqueta C
+Label C
 
-Esta mecánica de 5461cc de cilindrada obtiene unos consumos de 17.2 litros en circulación urbana, 11.8 en carretera y consumo de 13.8 litros a los 100km de media. Con ello los niveles de emisiones se ubican en 322 gramos de CO2 por kilómetro.
+This 5461cc displacement mechanic obtains consumption of 17.2 liters in urban circulation, 11.8 liters on the road and consumption of 13.8 liters per 100km on average. With this, the emission levels are located at 322 grams of CO2 per kilometer.
 
 > Price: 650€/D
 >
