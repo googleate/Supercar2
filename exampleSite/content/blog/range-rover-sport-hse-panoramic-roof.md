@@ -8,9 +8,7 @@ title = "Range Rover Sport HSE (350€)"
 type = "post"
 
 +++
-**350€/ D**
-
-Endless amount of gadgets on this car
+Range Rover Sport HSE (Panoramic Roof)
 
 3\.0-liter diesel,
 
