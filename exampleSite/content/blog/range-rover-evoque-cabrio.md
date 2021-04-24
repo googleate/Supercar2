@@ -4,7 +4,7 @@ date = ""
 description = "Rent Range Rover Evoque Cabrio"
 image = "/images/evoque-cabrio.jpg"
 tags = ["Range Rover"]
-title = "Range Rover Evoque Cabrio"
+title = "Range Rover Evoque Cabrio (280€)"
 type = "post"
 
 +++
