@@ -7,7 +7,7 @@ image: "/images/ferrari-488-spider-large-a3.jpg"
 ---
 ### Hello, we are SUPERCAR Marbella
 
-Young and professional company that will take care of all the details to find the perfect supercar for your holidays.
+Young and professional company that will take care of all the details to find the perfect supercar for your holidays in Marbella.
 
 * Quick Delivery
 * Easy Documents and contract preparations
