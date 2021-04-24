@@ -4,11 +4,11 @@ date = ""
 description = "Rent Mercedes-AMG GT R Roaster 2020"
 image = "/images/mercedes-amg-gt-r-roaster-2020.jpg"
 tags = ["Mercedes"]
-title = "Mercedes-AMG GT R Roaster 2020"
+title = "Mercedes-AMG GT R Roaster 2020 (650€)"
 type = "post"
 
 +++
-This SuperCar is identified by its massive carbon-fiber rear spoiler, the GT R Roadster it is the new drop top king of the Marbella roads
+This SuperCar is identified by its massive carbon-fiber rear spoiler, the GT R Roadster it is the new drop top king of the Marbella roads.
 
 Just 750 units worldwide so this car does not come cheap so the privilege of renting this car makes it even more remarkable
 
