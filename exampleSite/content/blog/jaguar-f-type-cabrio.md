@@ -4,11 +4,13 @@ date = ""
 description = "Rent Jaguar F-Type Cabrio"
 image = "/images/jaguar-f-type-large-a1-1.jpg"
 tags = ["Jaguar"]
-title = "Jaguar F-Type Cabrio"
+title = "Jaguar F-Type Cabrio (450€)"
 type = "post"
 
 +++
-The Jaguar F-Type Convertible 2.0 I4 300 RWD Auto (2019) has a 1998cc gasoline engine with 4 cylinders located in line that reaches a maximum power of 300CV at 5500rpm and maximum torque of 400Nm at 1500-4500rpm. It is therefore a mechanic with a specific power of 300CV, with turbo power.
+The Jaguar F-Type Convertible 2.0 I4 300 RWD Auto (2019) has a 1998cc gasoline engine with 4 cylinders located in line.
+
+Reaches a maximum power of 300CV at 5500rpm and maximum torque of 400Nm at 1500-4500rpm. It is therefore a mechanic with a specific power of 300CV, with turbo power.
 
 Label C
 
