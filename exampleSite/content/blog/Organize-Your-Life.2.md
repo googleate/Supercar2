@@ -1,5 +1,5 @@
 ---
-title: Ferrari California T
+title: Ferrari California T (950€)
 date: 2019-05-14T14:46:10.000+06:00
 description: Rent a Ferrari California T
 type: featured
@@ -10,7 +10,9 @@ tags:
 - Ferrari
 
 ---
-Ferrari's design center, in collaboration with Pininfarina, has produced an elegant and balanced design, with convex and concave surfaces, which give the Ferrari California T the sophisticated charm of an authentic Ferrari 'Grand Tourer'. The modern design of the Ferrari California T gives it a strong personality, in which sportiness and elegance blend perfectly, while maintaining classic proportions.
+Ferrari's design center, in collaboration with Pininfarina, has produced an elegant and balanced design, with convex and concave surfaces, 
+
+Ferrari California T have a sophisticated charm of an authentic Ferrari 'Grand Tourer'. The modern design of the Ferrari California T gives it a strong personality, in which sportiness and elegance blend perfectly, while maintaining classic proportions.
 
 These proportions are found in the classic Ferrari mold, with the engine arranged in front and some lines of bodywork that are they are lovingly molding towards a compact and muscular rear. The lines also provide elegant aerodynamics, with understated details that highlight its sinuous shapes. The front of the California T is dominated by a generous grille, typical of Ferrari design, which gives it an aura of sportiness. The side air intakes are not devoid of functionality: behind are the intercoolers for the new turbocharged engine and the air inlets for cooling the front brake assembly.
 
