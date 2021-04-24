@@ -8,7 +8,9 @@ title = "Porsche Cayenne S 2019 (350€)"
 type = "post"
 
 +++
-The Porsche Cayenne S Coupé (2019-2020) has a 2894cc gasoline engine with 6 cylinders located in v that reaches a maximum power of 441CV at 5700-6600rpm and maximum torque of 550Nm at 1800-5500rpm. Consequently, it is a mechanics with a specific power of 441CV, with turbo nutrition.
+The Porsche Cayenne S Coupé (2019-2020) has a 2894cc gasoline engine with 6 cylinders located in v that reaches.
+
+A maximum power of 441CV at 5700-6600rpm and maximum torque of 550Nm at 1800-5500rpm. Consequently, it is a mechanics with a specific power of 441CV, with turbo nutrition.
 
 Label C
 
