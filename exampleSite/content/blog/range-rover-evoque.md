@@ -8,7 +8,7 @@ title = "Range Rover Evoque"
 type = "post"
 
 +++
-**198€/ Day**
+**198€/ Day.**
 
 The Land Rover Range Rover Evoque in five-door form offers breathtaking contemporary kinetic design with added practicality, superb accessibility and extraordinary versatility.
 
