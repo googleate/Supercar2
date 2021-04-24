@@ -4,11 +4,13 @@ date = ""
 description = "Rent Lamborghini Huracan Spyder"
 image = "/images/lambo-huracan-performante_large-a1.jpg"
 tags = ["Lamborghini"]
-title = "Lamborghini Huracan Spyder"
+title = "Lamborghini Huracan Spyder (1500€)"
 type = "post"
 
 +++
-The Lamborghini Huracán Performante Spyder (2018-2019) has a 5204cc gasoline engine with 10 cylinders located in V that reaches a maximum power of 639CV at 8000rpm and maximum torque of 600Nm at 6500rpm. It is therefore a mechanical with a maximum power of 639CV, with variable intake power.
+The Lamborghini Huracán Performante Spyder (2018-2019) has a 5204cc gasoline engine with 10 cylinders located in V 
+
+Reaches a maximum power of 639CV at 8000rpm and maximum torque of 600Nm at 6500rpm. It is therefore a mechanical with a maximum power of 639CV, with variable intake power.
 
 Label C
 
