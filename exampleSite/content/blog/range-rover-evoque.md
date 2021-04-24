@@ -4,12 +4,10 @@ date = ""
 description = "Rent Range Rover Evoque"
 image = "/images/evoque.jpg"
 tags = ["Range Rover"]
-title = "Range Rover Evoque"
+title = "Range Rover Evoque (198€)"
 type = "post"
 
 +++
-**198€/ Day.**
-
 The Land Rover Range Rover Evoque in five-door form offers breathtaking contemporary kinetic design with added practicality, superb accessibility and extraordinary versatility.
 
 Bold and compact, Range Rover Evoque uses the latest materials and technology to help make it the most efficient Land Rover vehicle ever.
