@@ -8,11 +8,11 @@ title = "Mercedes C Class 300 Cabrio 2019"
 type = "post"
 
 +++
-El Mercedes-Benz C 300 Cabrio (2019) tiene un motor gasolina de 1991cc con 4 cilindros situados en línea que alcanza una potencia máxima de 258CV a 5800-6100rpm y par máximo de 370Nm a 1800-4000rpm. Se trata por consiguiente de una mecánica con una potencia concreta de 258CV, con nutrición inyección directa. 
+The Mercedes-Benz C 300 Cabrio (2019) has a 1991cc gasoline engine with 4 cylinders located in line that reaches a maximum power of 258CV at 5800-6100rpm and maximum torque of 370Nm at 1800-4000rpm. It is therefore a mechanical with a specific power of 258CV, with direct injection nutrition.
 
-Etiqueta C
+Label C
 
-Esta mecánica de 1991cc de cilindrada consigue unos consumos de litros en circulación urbana, en carretera y consumo de 7.5 litros a los 100km de media. Con ello los niveles de emisiones se ubican en 144 gramos de CO2 por kilómetro.
+This 1991cc engine displacement achieves consumption of liters in urban circulation, on the road and consumption of 7.5 liters per 100km on average. With this, the emission levels are located at 144 grams of CO2 per kilometer.
 
 > Price: 275€/D
 >
