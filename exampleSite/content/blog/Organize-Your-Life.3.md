@@ -10,7 +10,9 @@ tags:
 - Mercedes
 
 ---
-It combines traditional elegance with the most current comfort. Its imposing presence confirms this premise from any perspective. The majesty of this vehicle is appreciated at first glance. Its sleek, robust silhouette and noble chrome accents live up to the expectations raised by the distinctive 'Maybach', located on the eye-catching front end in conjunction with the elegant MULTIBEAM LED headlamps. Inside, a generous feeling of spaciousness awaits you and a design that reconciles the characteristics of a multifunctional office with those of an exclusive lounge. It doesn't matter if you need a folding desk or champagne glasses: in the Mercedes-Maybach S-Class, it is your wishes that count.
+It combines traditional elegance with the most current comfort. Its imposing presence confirms this premise from any perspective. 
+
+The majesty of this vehicle is appreciated at first glance. Its sleek, robust silhouette and noble chrome accents live up to the expectations raised by the distinctive 'Maybach', located on the eye-catching front end in conjunction with the elegant MULTIBEAM LED headlamps. Inside, a generous feeling of spaciousness awaits you and a design that reconciles the characteristics of a multifunctional office with those of an exclusive lounge. It doesn't matter if you need a folding desk or champagne glasses: in the Mercedes-Maybach S-Class, it is your wishes that count.
 
 Maximum luxury for all the senses. The ENERGIZING comfort control generates small impulses that can significantly improve your well-being, and even your mood. This device connects different vehicle comfort systems, such as THERMOTRONIC or the massage and scent functions, together and groups them into six defined programs.
 
