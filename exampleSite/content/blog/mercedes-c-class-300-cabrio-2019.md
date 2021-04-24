@@ -4,11 +4,13 @@ date = 2019-03-31T22:00:00Z
 description = "Rent Mercedes C Class 300 Cabrio"
 image = "/images/2019_mercedes-benz_c-class.jpeg"
 tags = ["Mercedes"]
-title = "Mercedes C Class 300 Cabrio 2019"
+title = "Mercedes C Class 300 Cabrio 2019 (275€)"
 type = "post"
 
 +++
-The Mercedes-Benz C 300 Cabrio (2019) has a 1991cc gasoline engine with 4 cylinders located in line that reaches a maximum power of 258CV at 5800-6100rpm and maximum torque of 370Nm at 1800-4000rpm. It is therefore a mechanical with a specific power of 258CV, with direct injection nutrition.
+The Mercedes-Benz C 300 Cabrio (2019) has a 1991cc gasoline engine with 4 cylinders located in line.
+
+Reaches a maximum power of 258CV at 5800-6100rpm and maximum torque of 370Nm at 1800-4000rpm. It is therefore a mechanical with a specific power of 258CV, with direct injection nutrition.
 
 Label C
 
