@@ -4,7 +4,7 @@ date = ""
 description = "Rent Ferrari 488 Spider"
 image = "/images/ferrari-488-spider-large-a3.jpg"
 tags = ["Ferrari"]
-title = "Ferrari 488 Spider"
+title = "Ferrari 488 Spider (1400€)"
 type = "post"
 
 +++
