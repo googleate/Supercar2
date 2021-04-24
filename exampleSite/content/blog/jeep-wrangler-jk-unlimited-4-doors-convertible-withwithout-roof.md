@@ -4,11 +4,13 @@ date = ""
 description = "Rent Jeep Wrangler JK Unlimited"
 image = "/images/jeep-wrangler-5.jpg"
 tags = ["Jeep"]
-title = "Jeep Wrangler JK Unlimited (4 Doors Convertible withwithout roof)"
+title = "Jeep Wrangler JK Unlimited (275€)"
 type = "post"
 
 +++
-The Jeep Wrangler Unlimited 2.8 CRD JK Edition Aut. (2018-2018) has a 2776cc diesel engine with 4 cylinders located in line that reaches a maximum power of 200CV at 3600rpm and maximum torque of 460Nm at 1600-2600rpm. Consequently, it is a mechanic with a maximum power of 200CV, with direct injection nutrition through the common conduit.
+The Jeep Wrangler Unlimited 2.8 CRD JK Edition Aut. (2018-2018) 4 Doors Convertible withwithout roof.
+
+Has a 2776cc diesel engine with 4 cylinders located in line that reaches a maximum power of 200CV at 3600rpm and maximum torque of 460Nm at 1600-2600rpm. Consequently, it is a mechanic with a maximum power of 200CV, with direct injection nutrition through the common conduit.
 
 Label B
 
