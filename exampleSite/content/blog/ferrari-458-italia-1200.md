@@ -1,5 +1,5 @@
 +++
-categories = ["Supercars"]
+categories = ["Supercar"]
 date = ""
 description = "Ferrari 458 Italia"
 image = "/images/ferrari-458-italia.jpg"
