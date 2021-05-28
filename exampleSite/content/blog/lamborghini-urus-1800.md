@@ -1,5 +1,5 @@
 +++
-categories = ["Supercars", "SUV"]
+categories = ["Supercar", "SUV"]
 date = ""
 description = "Lamborghini Urus"
 image = "/images/lambo-urus.jpg"
