@@ -2,7 +2,7 @@
 categories = ["Supercar"]
 date = ""
 description = "Rent Maserati Gran Cabrio S"
-image = "/images/maserati-1.jpg"
+image = "/images/maserati-gran-cabrio-s-blanco.jpg"
 tags = ["Maserati"]
 title = "Maserati Gran Cabrio S (650€)"
 type = "post"
@@ -25,5 +25,7 @@ It features a 405-horsepower V8 engine and six-speed automatic transmission with
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/maserati-1.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
