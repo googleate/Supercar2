@@ -2,7 +2,7 @@
 categories = ["Supercar"]
 date = ""
 description = "Rent Ferrari 599 GTB Fiorano (V12)"
-image = "/images/ferrari-599-gtb-fiorano.jpg"
+image = "/images/ferrari-599-fiorano.jpg"
 tags = ["Ferrari"]
 title = "Ferrari 599 GTB Fiorano V12 (750€)"
 type = "post"
@@ -23,5 +23,7 @@ This mechanical 5999cc displacement achieves consumption of liters in urban circ
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/ferrari-599-gtb-fiorano.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
