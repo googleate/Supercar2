@@ -8,7 +8,7 @@ title = "Audi Q7 S Line 7 seats (298€)"
 type = "post"
 
 +++
-The Audi Q7 combines sportiness and versatility, sophisticated technology, and the luxury of a premium-class vehicle. On the road it excels with sporty driving performance;
+The Audi Q7 combines sportiness and the luxury of a premium-class vehicle. On the road it excels with sporty driving performance.
 
 Up to seven people can be accommodated in three rows of seats. The seats in the second row can be individually adjusted for fore/aft movement if desired; here passengers will find the longest legroom in this class.
 
