@@ -2,7 +2,7 @@
 categories = ["SUV", "Cabrio"]
 date = ""
 description = "Rent Jeep Wrangler JK Unlimited"
-image = "/images/jeep-wrangler-5.jpg"
+image = "/images/jeep-wrangler-cabrio-blanco.jpg"
 tags = ["Jeep"]
 title = "Jeep Wrangler JK Unlimited (275€)"
 type = "post"
