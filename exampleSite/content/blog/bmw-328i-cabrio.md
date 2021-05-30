@@ -2,7 +2,7 @@
 categories = ["Cabrio"]
 date = ""
 description = "Rent BMW 328i Cabrio"
-image = "/images/bmw_328_bmw_328_serie_3_e36_cabriolet.jpg"
+image = "/images/bmw-328-i-cabrio.jpg"
 tags = ["BMW"]
 title = "BMW 328i Cabrio (180€)"
 type = "post"
@@ -21,5 +21,7 @@ This 2793cc displacement mechanic obtains consumption of 13.5 liters in urban ci
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/bmw-cabrio.jpeg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
