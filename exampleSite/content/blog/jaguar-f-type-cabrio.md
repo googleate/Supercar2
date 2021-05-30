@@ -2,7 +2,7 @@
 categories = ["Cabrio"]
 date = ""
 description = "Rent Jaguar F-Type Cabrio"
-image = "/images/jaguar-f-type-large-a1-1.jpg"
+image = "/images/jaguar-tip-f-cabrio-rojo.jpg"
 tags = ["Jaguar"]
 title = "Jaguar F-Type Cabrio (450€)"
 type = "post"
@@ -23,5 +23,7 @@ This 1998cc engine displacement achieves consumption of liters in urban circulat
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/jaguar-f-type-large-a1-1.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
