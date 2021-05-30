@@ -8,9 +8,7 @@ title = "BMW i8 (598€)"
 type = "post"
 
 +++
-The BMW i8 Coupé (2017-2020) has a 1497cc gasoline engine with 3 cylinders located in line.
-
-Reaches a maximum power of 231CV at 5800rpm and maximum torque of 320Nm at 3700rpm. It is therefore a mechanic with a maximum power of 231CV, with intercooler power.
+The BMW i8 Coupé (2017-2020) has a 1497cc gasoline engine with 3 cylinders located in line. Reaches a maximum power of 231CV at 5800rpm and maximum torque of 320Nm at 3700rpm. It is therefore a mechanic with a maximum power of 231CV, with intercooler power.
 
 Zero Label
 
