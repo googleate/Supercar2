@@ -2,7 +2,7 @@
 categories = ["SUV"]
 date = ""
 description = "Rent Range Rover Sport HSE"
-image = "/images/range-rove-hs.jpg"
+image = "/images/range-rover-sport.jpg"
 tags = ["Range Rover"]
 title = "Range Rover Sport HSE (350€)"
 type = "post"
@@ -35,5 +35,7 @@ Range Rover Sport HSE (Panoramic Roof)
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/range-rove-hs.jpg)
 
 [![](/images/boton.png)]()
