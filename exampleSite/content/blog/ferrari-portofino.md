@@ -2,7 +2,7 @@
 categories = ["Cabrio", "Supercar"]
 date = ""
 description = "Rent Ferrari Portofino"
-image = "/images/ferrari-portofino-21-1.jpg"
+image = "/images/ferrari-portofino-rojo.jpg"
 tags = ["Ferrari"]
 title = "Ferrari Portofino (1500€)"
 type = "post"
@@ -23,5 +23,7 @@ This 3855cc displacement mechanic achieves a consumption of 15.5 liters in urban
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/ferrari-portofino-21-1.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
