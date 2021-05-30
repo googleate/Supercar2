@@ -22,6 +22,4 @@ This 2793cc displacement mechanic obtains consumption of 13.5 liters in urban ci
 >
 > Min Hire Period Days: 2
 
-![](/images/bmw-cabrio.jpeg)
-
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
