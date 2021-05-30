@@ -2,7 +2,7 @@
 categories = ["Cabrio"]
 date = ""
 description = "Fiat Abarth Cabrio"
-image = "/images/abarth500.jpg"
+image = "/images/fiat-abarth-cabrio-blanco.jpg"
 tags = ["Fiat"]
 title = "Fiat Abarth Cabrio (198€)"
 type = "post"
@@ -23,5 +23,7 @@ This mechanical 1368cc displacement obtains consumption of liters in urban circu
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/abarth500-1.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
