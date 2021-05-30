@@ -2,7 +2,7 @@
 categories = ["Cabrio", "Supercar"]
 date = ""
 description = "Rent Ferrari 488 Spider"
-image = "/images/ferrari-488-spider-large-a3.jpg"
+image = "/images/ferrari-488-spider-blanco.jpg"
 tags = ["Ferrari"]
 title = "Ferrari 488 Spider (1400€)"
 type = "post"
@@ -23,5 +23,7 @@ You must rent this car with a VIP Port Pass to enter Puerto Banus harbour, it’
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/ferrari-488-spider-large-a3.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
