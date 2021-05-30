@@ -2,7 +2,7 @@
 categories = ["Supercar"]
 date = ""
 description = "Rent BMW i8"
-image = "/images/bmw-i8.jpg"
+image = "/images/bmw-i-8-blanco.jpg"
 tags = ["BMW"]
 title = "BMW i8 (598€)"
 type = "post"
@@ -23,5 +23,7 @@ This mechanical 1497cc displacement achieves consumption of liters in urban circ
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/bmw-i8.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
