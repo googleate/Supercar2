@@ -2,7 +2,6 @@
 categories = ["Supercar"]
 date = ""
 description = "BMW M2"
-draft = true
 image = "/images/bmw-m2.jpg"
 tags = ["BMW"]
 title = "BMW M2 Competicio (400€)"
