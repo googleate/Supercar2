@@ -1,11 +1,11 @@
 +++
-categories = []
+categories = ["Supercar"]
 date = ""
-description = ""
+description = "Porsche Panamera 4S"
 image = "/images/porsche-panamera-blanco.jpg"
-tags = []
+tags = ["Porsche"]
 title = "Porsche Panamera 4S (500€)"
-type = ""
+type = "post"
 
 +++
 The 2021 Porsche Panamera 4S E-Hybrid perfectly represents this complex equation. It is the new intermediate option within the plug-in hybrid range, which achieves, compared to the 4 E-Hybrid of 2017, to offer more power and also greater electric autonomy.
