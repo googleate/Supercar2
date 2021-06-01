@@ -2,7 +2,7 @@
 categories = ["Supercar", "Cabrio"]
 date = ""
 description = "Rent Porsche Boxster 718 Connect"
-image = "/images/boxster.jpg"
+image = "/images/porsche-boxster-cabrio.jpg"
 tags = ["Porsche"]
 title = "Porsche Boxster 718 Connect (398€)"
 type = "post"
@@ -25,5 +25,7 @@ Porsche enthusiasts will love the sound of the sport exhaust too as they are zip
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/boxster.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
