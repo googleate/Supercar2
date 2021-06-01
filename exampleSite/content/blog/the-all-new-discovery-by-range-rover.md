@@ -2,7 +2,7 @@
 categories = ["SUV"]
 date = ""
 description = "Rent The All New Discovery by Range Rover (7 seats, Dynamic Pack)"
-image = "/images/all-new-range-rover.jpg"
+image = "/images/new-discovery-range-rover-blanco.jpg"
 tags = ["Range Rover"]
 title = "The All New Discovery by Range Rover (398€)"
 type = "post"
@@ -35,5 +35,7 @@ Endless amount of gadgets on this car
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/all-new-range-rover.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
