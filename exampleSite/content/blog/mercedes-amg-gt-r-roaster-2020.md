@@ -2,7 +2,7 @@
 categories = ["Cabrio"]
 date = ""
 description = "Rent Mercedes-AMG GT R Roaster 2020"
-image = "/images/mercedes-amg-gt-r-roaster-2020.jpg"
+image = "/images/mercedes-amg-roadster-cabrio-blanco.jpg"
 tags = ["Mercedes"]
 title = "Mercedes-AMG GT R Roaster 2020 (650€)"
 type = "post"
@@ -27,5 +27,7 @@ Press its start button, and the GT R’s V-8 erupts to life and idles like it be
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/mercedes-amg-gt-r-roaster-2020.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
