@@ -2,7 +2,7 @@
 categories = ["SUV"]
 date = ""
 description = "Rent Range Rover SV Autobiography 5.0L V8"
-image = "/images/range-rover-autobiography.jpg"
+image = "/images/range-rover-autobiography-blanco.jpg"
 tags = ["Range Rover"]
 title = "Range Rover SV Autobiography 5.0L V8 (598€)"
 type = "post"
@@ -21,5 +21,7 @@ The long wheelbase version gains perforated leather seats, a heated wood and lea
 > Min Age: 25
 >
 > Min Hire Period Days: 2
+
+![](/images/range-rover-autobiography.jpg)
 
 [![](/images/boton.png)](https://supercarmarbella.com/contact/ "Book")
