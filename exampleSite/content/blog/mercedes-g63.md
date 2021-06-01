@@ -1,5 +1,5 @@
 +++
-categories = ["SUV"]
+categories = ["Confort", "SUV"]
 date = ""
 description = "Rent Mercedes 4x4 Model G63"
 image = "/images/mercedes-g63.jpg"
