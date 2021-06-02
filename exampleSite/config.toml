@@ -43,7 +43,7 @@ home = "Home"
 layout = "1"
 logo = "images/logo.png"
 mobile = "+34 692 300 316"
-preloader = false
+preloader = true
 search = false
 [params.cookies]
 enable = false
