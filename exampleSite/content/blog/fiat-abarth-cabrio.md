@@ -8,7 +8,7 @@ title = "Fiat Abarth Cabrio (198€)"
 type = "post"
 
 +++
-The Abarth 595C Turismo 1.4 16v T-JET 121 kW (165 HP) Robotic Sequential Shift (2018) has a 1368cc gasoline engine with 4 cylinders located in line.
+The Abarth 595C Turismo 1.4 16v (165 HP) has a 1368cc gasoline engine with 4 cylinders located in line.
 
 Reaches a maximum power of 165CV at 5500rpm and maximum torque of 230Nm at 3000rpm. It is therefore a mechanical with a specific power of 165CV, with indirect injection nutrition.
 
