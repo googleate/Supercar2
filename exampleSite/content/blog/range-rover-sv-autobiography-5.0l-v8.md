@@ -8,7 +8,7 @@ title = "Range Rover SV Autobiography 5.0L V8 (598€)"
 type = "post"
 
 +++
-This car in our opinion as good if not better than travelling in a Rolls Royce, plus is as fast as a sports car and V8 Supercharge exhaust sound is music to any Petrol head.
+This car is as fast as a sports car and V8 Supercharge exhaust sound is music to any Petrol head.
 
 Inside there is masses of super luxurious touches adorning the cabin including, four-zone climate control that can be remotely controlled, heated steering wheel and rear seats, ventilated front seats, massaging seats, and a 10.2in touch screen infotainment system complete with DAB tuner, sat nav, Bluetooth, USB connectivity and a TV tuner.
 
