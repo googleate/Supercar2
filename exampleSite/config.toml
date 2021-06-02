@@ -1,7 +1,7 @@
 baseurl = "https://supercarmarbella.com"
 googleAnalytics = ""
 languageCode = "en-us"
-paginate = "20"
+paginate = "21"
 summaryLength = "5"
 theme = "parsa-hugo"
 title = "SuperCar Marbella"
