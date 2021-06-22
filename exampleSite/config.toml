@@ -46,7 +46,7 @@ mobile = "+34 692 300 316"
 preloader = true
 search = false
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
