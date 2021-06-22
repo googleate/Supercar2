@@ -2,7 +2,7 @@
 categories = ["Supercar", "SUV"]
 date = ""
 description = "Lamborghini Urus"
-image = "/images/lambo-urus.jpg"
+image = "/images/lambo-urus-verde.jpg"
 tags = ["Lamborghini"]
 title = "Lamborghini Urus (1800€)"
 type = "post"
