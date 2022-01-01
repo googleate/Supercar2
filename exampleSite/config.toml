@@ -38,11 +38,11 @@ bio = "Supercars rent and shop"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2021 SupercarMarbella.com"
 description = "Supercars rent and shop in Marbella"
-email = "malu@supercarmarbella.com"
+email = "supercarmarbella@gmail.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+34 692 300 316"
+mobile = "+34 663010971"
 preloader = true
 search = false
 [params.cookies]
