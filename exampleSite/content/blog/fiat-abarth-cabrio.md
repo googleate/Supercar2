@@ -2,7 +2,6 @@
 categories = ["Cabrio"]
 date = ""
 description = "Fiat Abarth Cabrio"
-draft = true
 image = "/images/fiat-abarth-cabrio-blanco.jpg"
 tags = ["Fiat"]
 title = "Fiat Abarth Cabrio (198€)"
